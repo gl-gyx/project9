@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f2f2cf6-639c-4a7d-92e3-0eb54ccc7488" name="Changes" comment="Hello">
-      <change afterPath="$PROJECT_DIR$/src/main/java/PersonKotlin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9f2f2cf6-639c-4a7d-92e3-0eb54ccc7488" name="Changes" comment="kotlin" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654843383356</updated>
-      <workItem from="1654843387288" duration="4749000" />
+      <workItem from="1654843387288" duration="5049000" />
     </task>
     <task id="LOCAL-00001" summary="person">
       <created>1654845660484</created>
@@ -106,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654846562510</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="kotlin">
+      <created>1654849309340</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654849309340</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="person" />
     <MESSAGE value="Hello" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello" />
+    <MESSAGE value="kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="kotlin" />
   </component>
 </project>
